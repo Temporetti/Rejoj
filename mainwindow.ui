@@ -27,7 +27,7 @@
      <cursorShape>ArrowCursor</cursorShape>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>START</string>
     </property>
    </widget>
    <widget class="QWidget" name="widget" native="true">
@@ -36,7 +36,7 @@
       <x>80</x>
       <y>10</y>
       <width>511</width>
-      <height>311</height>
+      <height>451</height>
      </rect>
     </property>
    </widget>
